@@ -25,6 +25,6 @@ My job in the military does not heavily rely on programming skills. However, hav
 **Porfolio Links**<br>
 * [Professional Self-Assessment](https://w-coleman-moore.github.io/index.html)<br>
 * [Refinement Plan & Code Review](https://w-coleman-moore.github.io/ePortfolio/CodeReview.html)<br>
-* [Enhancement One - Software Engineering & Design](EnhancementOne.md)
+* [Enhancement One - Software Engineering & Design](EnhancementOneA.html)
 * [Enhancement Two - Data Structures & Algorithms](EnhancementTwo.md)
 * [Enhancement Three - Databases](EnhancementThree.md)
