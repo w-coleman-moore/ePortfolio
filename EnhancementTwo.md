@@ -54,12 +54,15 @@ The only challenge I faced was the amount of time it took to modify the original
 ## References
 
 CodeWithC. (2014, June 28). Railway Reservation System C++ Project. Code with C. https://www.codewithc.com/railway-reservation-system-project-in-c/
+
 [Link] (https://www.codewithc.com/railway-reservation-system-project-in-c/)
 
 Reed, K., 15, A. P. J., Pardoe, A., 16, E. M. J., & Eric Mittelette. (2019, February 18). C++ Static Analysis Improvements for Visual Studio 2017 15.6 Preview 2. C++ Team Blog. https://devblogs.microsoft.com/cppblog/c-static-analysis-improvements-for-visual-studio-2017-15-6-preview-2/
+
 [Link] (https://devblogs.microsoft.com/cppblog/c-static-analysis-improvements-for-visual-studio-2017-15-6-preview-2/)
 
 Svoboda, D. (2018, December 5). SEI CERT C Coding Standard. https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard
+
 [Link] (https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard)
 
 **Link to Repository**

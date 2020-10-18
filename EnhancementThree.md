@@ -67,12 +67,15 @@ The greatest benefit I received in performing this enhancement was learning how 
 ## References
 
 Beugnet, M. (2020, February 29). Learn how to use MongoDB with Java in this CRUD operations tutorial. MongoDB Developer Hub. https://developer.mongodb.com/quickstart/java-setup-crud-operations
+
 [Link] (https://developer.mongodb.com/quickstart/java-setup-crud-operations)
 
 How can I build an $or query for MongoDB using the Java driver? Stack Overflow. https://stackoverflow.com/questions/10620771/how-can-i-build-an-or-query-for-mongodb-using-the-java-driver
+
 [Link] (https://stackoverflow.com/questions/10620771/how-can-i-build-an-or-query-for-mongodb-using-the-java-driver)
 
 MongoDB Driver Quick Tour. Quick Tour. https://mongodb.github.io/mongo-java-driver/3.0/driver/getting-started/quick-tour/
+
 [Link] (https://mongodb.github.io/mongo-java-driver/3.0/driver/getting-started/quick-tour/)
 
 **Link to Repository**

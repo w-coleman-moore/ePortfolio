@@ -34,12 +34,15 @@ I learned much more about basic lighting, which is ambient, diffuse, and specula
 ## References
 
 Advanced Lighting. LearnOpenGL. https://learnopengl.com/Advanced-Lighting/Advanced-Lighting
+
 [Link] (https://learnopengl.com/Advanced-Lighting/Advanced-Lighting)
 
 Basic Lighting. LearnOpenGL. https://learnopengl.com/Lighting/Basic-Lighting
+
 [Link] (https://learnopengl.com/Lighting/Basic-Lighting)
 
 TIOBE Index for September 2020. (2020, September). https://www.tiobe.com/tiobe-index/
+
 [Link] (https://www.tiobe.com/tiobe-index/)
 
 **Link to Repository**
