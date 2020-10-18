@@ -27,7 +27,7 @@ To demonstrate my abilities working with Databases, I chose my Final Project fro
 </div>
 
 **Porfolio Links**<br>
-* [Professional Self-Assessment](https://index.html)<br>
+* [Professional Self-Assessment](index.md)<br>
 * [Refinement Plan & Code Review](CodeReview.md)<br>
 * [Enhancement One - Software Engineering & Design](EnhancementOne.md)
 * [Enhancement Two - Data Structures & Algorithms](EnhancementTwo.md)

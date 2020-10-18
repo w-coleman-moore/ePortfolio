@@ -28,7 +28,7 @@ The artifact was improved by completing the lighting functionality for two light
 I learned much more about basic lighting, which is ambient, diffuse, and specular, and the Phong lighting model. I spent time studying the theory of lighting and lighting models on several websites, along with working through examples of various techniques. Writing code for manipulating my object in various view spaces with lighting works the same as writing code to solve any other problem; there are multiple ways to implement the same effect. I experimented with various ways to create the Phong lighting, such as keeping two ambient lighting results, two diffuse results, and two specular results, then combining all six results with the object color at the "vec3 Phong = " statement. After some testing of various approaches, I decided to use the 'straightforward' approach, to have only one ambient, diffuse and specular result, then adding the lighting together and multiplying with the matrix object color at the "vec3 Phong = " statement.
 
 **Porfolio Links**<br>
-* [Professional Self-Assessment](index.html)<br>
+* [Professional Self-Assessment](index.md)<br>
 * [Refinement Plan & Code Review](CodeReview.html)<br>
 * [Enhancement One - Software Engineering & Design](EnhancementOne.md)<br>
 * [Enhancement Two - Data Structures & Algorithms](EnhancementTwo.md)<br>

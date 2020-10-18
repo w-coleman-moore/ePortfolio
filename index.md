@@ -13,7 +13,7 @@ My interest in obtaining a Bachelor of Science in Computer Science was two-fold.
 
 The courses I have taken in the Computer Science program have added to my previous education and work experience as a software engineer. The courses have taught me about object oriented programming, the Software Development LifeCycle (SDLC), database programming, mobile device programming and the programming languages C++, Python and Java.
 
-When preparing my portfolio, I looked over the 27 courses I have taken at SNHU. I enjoyed the mathematical theory and applications taught in 
+When preparing my portfolio, I looked over the 27 courses I have taken at SNHU. I enjoyed the mathematical theory and applications taught in
 
  and selected three courses that were significant to me.
 
@@ -30,7 +30,7 @@ My job in the military does not heavily rely on programming skills. However, hav
 ### Portfolio Links
 
 **Porfolio Links**<br>
-* [Professional Self-Assessment](https://index.html)<br>
+* [Professional Self-Assessment](index.md)<br>
 * [Refinement Plan & Code Review](CodeReview.md)<br>
 * [Enhancement One - Software Engineering & Design](EnhancementOne.md)
 * [Enhancement Two - Data Structures & Algorithms](EnhancementTwo.md)

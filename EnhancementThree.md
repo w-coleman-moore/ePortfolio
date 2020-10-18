@@ -39,8 +39,8 @@ The greatest benefit I received in performing this enhancement was learning how 
 ### Portfolio Links
 
 **Porfolio Links**<br>
-* [Professional Self-Assessment](index.html)<br>
-* [Refinement Plan & Code Review](CodeReview.html)<br>
+* [Professional Self-Assessment](index.md)<br>
+* [Refinement Plan & Code Review](CodeReview.md)<br>
 * [Enhancement One - Software Engineering & Design](EnhancementOne.md)<br>
 * [Enhancement Two - Data Structures & Algorithms](EnhancementTwo.md)<br>
 * [Enhancement Three - Databases](EnhancementThree.md)
