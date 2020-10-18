@@ -2,13 +2,20 @@
 
 ## Introduction
 
-I've been in the SNHU Computer Science program since July 2017. I started school at the San Diego Community College before transferring to San Diego State University as an Accounting major. I ended up dropping out school back in 2014 to take some time off before joining the military in 2016. I'm now hoping to complete my final class for the Computer Science program and finally earn my bachelor's degree.
+I've been in the Southern New Hampshire University (SNHU) Computer Science program since July 2017. I entered in the program with two years of credits from an Associates Degree I completed many years ago.
 
 ## Educational Reflection
 
-I've learned a lot of things while in this program. First off, while not directly related to the program, I think attention to detail is a crucial skill. There have been many times that my code has failed to compile, all because of a simple mistake or typo in the code. Attention to detail sort of relates to the concept of code reviews. By using code reviews, we can have our peers review our code and look for mistakes that we may have missed. Like with proofreading a paper, having a fresh set of eyes on something can help pinpoint easily overlooked mistakes. Another concept that I've learned is important deals with testing and its methodology. Testing is crucial to ensuring a program works, and becomes more complicated as a project grows larger. Adopting the mindset of a tester is a change as well. We have to figure out how to break something that works to find the flaws in our project. Finally, learning about the Software Development Lifecycle was eye-opening. I never really thought about working on a large-scale project with a team before, but there are a lot of logistics that go into planning a large project and coordinating with coworkers. Additionally, being able to understand the needs of the client and translating those needs into direction for employees is important as well.
+At the beginning of my enrollment at SNHU, I started in the Information Technology program. After one term, I decided to switch to the Computer Science program because of my love of writing code and solving problems during my 30+ year career. I have an associate degree in Electrical Engineering, and I started my career designing hardware products for various companies I worked for. Soon thereafter, microprocessors became available, and I started designing those into my products. My work began shifting toward writing code and I learned assembly language coding on-the-job. C language tools began showing up within a few years and my efforts began migrating to writing code in C. C++, Java and Python followed over the years and I worked on many projects in those languages.
+My interest in obtaining a Bachelor of Science in Computer Science was two-fold. One was for my satisfaction, achieving a goal that I had desired for many years. The other was my interest in learning the theory behind the coding; designing algorithms and data structures, learning about object-oriented programming, and learning the details behind programming in C++, Java, and Python.
 
 ## Portfolio Summary
+
+The courses I have taken in the Computer Science program have added to my previous education and work experience as a software engineer. The courses have taught me about object oriented programming, the Software Development LifeCycle (SDLC), database programming, mobile device programming and the programming languages C++, Python and Java.
+
+When preparing my portfolio, I looked over the 27 courses I have taken at SNHU. I enjoyed the mathematical theory and applications taught in 
+
+ and selected three courses that were significant to me.
 
 All of the courses throughout the Computer Science program have helped me acquire the necessary skills and knowledge to position my self for a job in this industry. CS-250 taught me much about the Software Development Lifecyle and how communication with the client is important. CS-260 was a great lesson on data structures and algorithms. CS-310 showed me the basics of collaboration and explained how working together is necessary for large projects. CS-330 was an information look into the complexity of computer graphics. CS-340 helped me learn about create and use databases and showed how useful they can be.
 
@@ -23,8 +30,8 @@ My job in the military does not heavily rely on programming skills. However, hav
 ### Portfolio Links
 
 **Porfolio Links**<br>
-* [Professional Self-Assessment](https://w-coleman-moore.github.io/index.html)<br>
-* [Refinement Plan & Code Review](https://w-coleman-moore.github.io/ePortfolio/CodeReview.html)<br>
+* [Professional Self-Assessment](https://index.html)<br>
+* [Refinement Plan & Code Review](CodeReview.md)<br>
 * [Enhancement One - Software Engineering & Design](EnhancementOne.md)
 * [Enhancement Two - Data Structures & Algorithms](EnhancementTwo.md)
 * [Enhancement Three - Databases](EnhancementThree.md)
