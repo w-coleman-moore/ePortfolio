@@ -49,8 +49,8 @@ The only challenge I faced was the amount of time it took to modify the original
 ### Portfolio Links
 
 **Porfolio Links**<br>
-* [Professional Self-Assessment](https://w-coleman-moore.github.io/index.html)<br>
-* [Refinement Plan & Code Review](https://w-coleman-moore.github.io/ePortfolio/CodeReview.html)<br>
-* [Enhancement One - Software Engineering & Design](https://w-coleman-moore.github.io/ePortfolio/EnhancementOne.md)<br>
-* [Enhancement Two - Data Structures & Algorithms](https://w-coleman-moore.github.io/ePortfolio/EnhancementTwo.md)<br>
-* [Enhancement Three - Databases](https://w-coleman-moore.github.io/ePortfolio/EnhancementThree.md)
+* [Professional Self-Assessment](index.html)<br>
+* [Refinement Plan & Code Review](CodeReview.html)<br>
+* [Enhancement One - Software Engineering & Design](EnhancementOne.md)<br>
+* [Enhancement Two - Data Structures & Algorithms](EnhancementTwo.md)<br>
+* [Enhancement Three - Databases](EnhancementThree.md)
