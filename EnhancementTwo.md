@@ -3,7 +3,12 @@
 ## Introduction - Data Structures and Algorithms Artifact
 
 This artifact was part of my Final Project from CS-405 Secure Coding, which I took in September 2019. In that class, I was given a small C++ project with five source files and I was to find vulnerabilities and security flaws in the project code. As part of the Final Project in that class, I created a document that listed the vulnerabilities and security flaws I found and the solutions I implemented.
-My enhancement to the artifact was to apply the same procedures of analysis to a more complicated set of C++ code files and to produce the same type of solutions report.
+
+My enhancements to the project were to use visual assessment and static analysis tools on a more complicated set of C++ code files. The project I selected came from a website that provides source code files for various types of projects (CodeWithC, 2014).  I chose the Railway Reservation System, which is a project consisting of one C++ file. I completed the enhancements using this project and created a document that lists the code and the analysis results.
+
+The original project was written in C++ on the Eclipse Integrated Development Environment (IDE). For the enhancement project, I chose the Visual Studio IDE, which includes a built-in static analysis tool.
+
+In researching the static analysis tools and methods to use in finding vulnerabilities and security flaws, I found Reed (2019) to be a great source of information on the static analysis tool included with Visual Studio. Svoboda (2018) was another excellent resource for learning about secure coding standards and methods when writing C and C++ code.
 
 ## Why I Included This Artifact
 
@@ -45,6 +50,21 @@ When inspecting the artifact visually, I used the SEI CERT C Coding Standard (Sv
 I also reviewed and used several static analysis tools in the process of improving the code I selected. Two of the tools easily integrated with Visual Studio, a third tool ran from the Windows command line with the path and name of the file provided.
 
 The only challenge I faced was the amount of time it took to modify the original code with all of the changes that needed to be made. After doing a visual inspection of the code, and running two static analysis tools on the code, I needed to make lots of changes to functions and character strings. Then I began slowly walking through the code and adding comments to the code. Understanding and then documenting the code took more time than the inspections I had performed.
+
+## References
+
+CodeWithC. (2014, June 28). Railway Reservation System C++ Project. Code with C. https://www.codewithc.com/railway-reservation-system-project-in-c/
+[Link] (https://www.codewithc.com/railway-reservation-system-project-in-c/)
+
+Reed, K., 15, A. P. J., Pardoe, A., 16, E. M. J., & Eric Mittelette. (2019, February 18). C++ Static Analysis Improvements for Visual Studio 2017 15.6 Preview 2. C++ Team Blog. https://devblogs.microsoft.com/cppblog/c-static-analysis-improvements-for-visual-studio-2017-15-6-preview-2/
+[Link] (https://devblogs.microsoft.com/cppblog/c-static-analysis-improvements-for-visual-studio-2017-15-6-preview-2/)
+
+Svoboda, D. (2018, December 5). SEI CERT C Coding Standard. https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard
+[Link] (https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard)
+
+**Link to Repository**
+
+[Enhancement Two Repository](https://github.com/w-coleman-moore/EnhancementTwo)
 
 ### Portfolio Links
 
