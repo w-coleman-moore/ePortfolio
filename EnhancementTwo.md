@@ -4,7 +4,7 @@
 
 This artifact was part of my Final Project from CS-405 Secure Coding, which I took in September 2019. In that class, I was given a small C++ project with five source files and I was to find vulnerabilities and security flaws in the project code. As part of the Final Project in that class, I created a document that listed the vulnerabilities and security flaws I found and the solutions I implemented.
 
-My enhancements to the project were to use visual assessment and static analysis tools on a more complicated set of C++ code files. The project I selected came from a website that provides source code files for various types of projects (CodeWithC, 2014).  I chose the Railway Reservation System, which is a project consisting of one C++ file. I completed the enhancements using this project and created a document that lists the code and the analysis results.
+My enhancements to the project were to use visual assessment and static analysis tools on a more complicated set of C++ code files. The project I selected came from a website that provides source code files for various types of projects (CodeWithC, 2014).  I chose the Railway Reservation System, which is a project consisting of one C++ file and listed and described by CodeWithC (2014). I completed the enhancements using this project and created a document that lists the code and the analysis results.
 
 The original project was written in C++ on the Eclipse Integrated Development Environment (IDE). For the enhancement project, I chose the Visual Studio IDE, which includes a built-in static analysis tool.
 
@@ -55,11 +55,15 @@ The only challenge I faced was the amount of time it took to modify the original
 
 CodeWithC. (2014, June 28). Railway Reservation System C++ Project. Code with C. https://www.codewithc.com/railway-reservation-system-project-in-c/
 
-[CodeWithC](https://www.codewithc.com/railway-reservation-system-project-in-c/)
+[CodeWithC. (2014, June 28)](https://www.codewithc.com/railway-reservation-system-project-in-c/)
 
 Reed, K. (2018, January 10). C++ Static Analysis Improvements for Visual Studio 2017 15.6 Preview 2. C++ Team Blog. https://devblogs.microsoft.com/cppblog/c-static-analysis-improvements-for-visual-studio-2017-15-6-preview-2/
 
 [Reed, K. (2018, January 10)](https://devblogs.microsoft.com/cppblog/c-static-analysis-improvements-for-visual-studio-2017-15-6-preview-2/)
+
+Software Engineering Institute. History of Innovation at the SEI. https://www.sei.cmu.edu/about/history-of-innovation-at-the-sei/index.cfm
+
+[Software Engineering Institute](https://www.sei.cmu.edu/about/history-of-innovation-at-the-sei/index.cfm)
 
 Svoboda, D. (2018, December 5). SEI CERT C Coding Standard. https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard
 
