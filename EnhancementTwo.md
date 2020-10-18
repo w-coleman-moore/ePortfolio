@@ -1,6 +1,6 @@
 # CS-499 ePortfolio
 
-## Introduction
+## Introduction - Data Structures and Algorithms Artifact
 
 This artifact was part of my Final Project from CS-405 Secure Coding, which I took in September 2019. In that class, I was given a small C++ project with five source files and I was to find vulnerabilities and security flaws in the project code. As part of the Final Project in that class, I created a document that listed the vulnerabilities and security flaws I found and the solutions I implemented.
 My enhancement to the artifact was to apply the same procedures of analysis to a more complicated set of C++ code files and to produce the same type of solutions report.

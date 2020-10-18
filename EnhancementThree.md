@@ -1,6 +1,6 @@
 # CS-499 ePortfolio
 
-## Introduction
+## Introduction - Databases Artifact
 
 This artifact was part of my Final Project from CS-340 Client Server Development. I took that class in January 2020, and I used MongoDB and code written in Python to manipulate data in databases. This Final Project used a high-level programming language (Python) and used advanced programming techniques that were suitable for use within a full-stack development environment. For my enhancement of this project, I switched to Java to create the same functional results and use the same create, read, update, delete operations on the stock market database. The complex operations performed in the CS-340 final will also be created in Java, with the five top stocks reported by an industry selection I chose.
 

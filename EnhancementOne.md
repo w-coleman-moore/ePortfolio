@@ -1,6 +1,6 @@
 # CS-499 ePortfolio
 
-## Introduction
+## Introduction - Software Engineering and Design Artifact
 
 The artifact that I chose for the Software Engineering/Design enhancement was my Final Project for CS 330 and was created early August 2019. The original purpose of this code was to demonstrate my abilities by using C++ and OpenGL to render an everyday object in three-dimensional space. For my CS 330 Final, I chose to render a cup and apply basic lighting and a metal texture to the cup.
 
