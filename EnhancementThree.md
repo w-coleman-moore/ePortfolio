@@ -61,8 +61,8 @@ The greatest benefit I received in performing this enhancement was learning how 
 ![Image](images/E3/JavaUpdate.png)
 ![Image](images/E3/JavaDelete.png)
 
-![Image](images/E2/JavaComplex1.png)
-![Image](images/E2/JavaComplex2.png)
+![Image](images/E3/JavaComplex1.png)
+![Image](images/E3/JavaComplex2.png)
 
 ## References
 
