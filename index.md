@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I've been in the Southern New Hampshire University (SNHU) Computer Science program since July 2017. I entered in the program with two years of credits from an Associates Degree I completed many years ago.
+I'm Coleman Moore and I've been a software engineer and engineering manager for over 30 years. I've been in the Southern New Hampshire University (SNHU) Computer Science program since July 2017. I entered in the program with two years of credits from an Associates Degree I completed many years ago. I decided to return to school to obtain a Bachelor's Degree in Computer Science. I did that for several reasons, one to complete a goal I started to pursue many years ago, and also to learn the theory behind software design and become current in the latest tools and languages.
 
 ## Educational Reflection
 

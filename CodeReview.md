@@ -21,7 +21,9 @@ The three artifacts that were informally reviewed were:
 
 ## Link to the Code review
 
-[Code Review](https://drive.google.com/file/d/1op30vMj1XhztF04Vl_W8Xm_gTMiHQoo1/view?usp=sharing)<br>
+The code review is on YouTube at the following link:
+
+[Code Review](https://youtu.be/b0g0EGG37rI)
 
 **Portfolio Links**<br>
 * [Professional Self-Assessment](index.md)<br>
