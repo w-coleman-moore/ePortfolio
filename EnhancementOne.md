@@ -49,7 +49,7 @@ TIOBE Index for September 2020. (2020, September). https://www.tiobe.com/tiobe-i
 
 [Enhancement One Repository](https://github.com/w-coleman-moore/EnhancementOne)
 
-**Porfolio Links**<br>
+**Portfolio Links**<br>
 * [Professional Self-Assessment](index.md)<br>
 * [Refinement Plan & Code Review](CodeReview.html)<br>
 * [Enhancement One - Software Engineering & Design](EnhancementOne.md)<br>

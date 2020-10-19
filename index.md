@@ -25,12 +25,14 @@ My job in the renewable energy industry relies heavily on my programming skills.
 **Link to Repositories**<br>
 
 [Enhancement One Repository](https://github.com/w-coleman-moore/EnhancementOne)<br>
+
 [Enhancement Two Repository](https://github.com/w-coleman-moore/EnhancementTwo)<br>
+
 [Enhancement Three Repository](https://github.com/w-coleman-moore/EnhancementThree)<br>
 
 ### Portfolio Links
 
-**Porfolio Links**<br>
+**Portfolio Links**<br>
 * [Professional Self-Assessment](index.md)<br>
 * [Refinement Plan & Code Review](CodeReview.md)<br>
 * [Enhancement One - Software Engineering & Design](EnhancementOne.md)<br>

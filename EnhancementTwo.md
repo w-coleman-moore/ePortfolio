@@ -75,7 +75,7 @@ Svoboda, D. (2018, December 5). SEI CERT C Coding Standard. https://wiki.sei.cmu
 
 ### Portfolio Links
 
-**Porfolio Links**<br>
+**Portfolio Links**<br>
 * [Professional Self-Assessment](index.md)<br>
 * [Refinement Plan & Code Review](CodeReview.md)<br>
 * [Enhancement One - Software Engineering & Design](EnhancementOne.md)<br>

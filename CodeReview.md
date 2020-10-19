@@ -14,14 +14,16 @@ The three artifacts that were informally reviewed were:
 ## Code Review Timing
 
 00:00 to 32:18 Enhancement One artifact code review<br>
+
 32:18 to 40:44 Enhancement Two artifact code review<br>
+
 40:44 to 47:08 Enhancement Three artifact code review<br>
 
 ## Link to the Code review
 
 [Code Review](https://drive.google.com/file/d/1op30vMj1XhztF04Vl_W8Xm_gTMiHQoo1/view?usp=sharing)<br>
 
-**Porfolio Links**<br>
+**Portfolio Links**<br>
 * [Professional Self-Assessment](index.md)<br>
 * [Refinement Plan & Code Review](CodeReview.md)<br>
 * [Enhancement One - Software Engineering & Design](EnhancementOne.md)<br>

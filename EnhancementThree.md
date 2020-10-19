@@ -84,7 +84,7 @@ MongoDB Driver Quick Tour. https://mongodb.github.io/mongo-java-driver/3.0/drive
 
 ### Portfolio Links
 
-**Porfolio Links**<br>
+**Portfolio Links**<br>
 * [Professional Self-Assessment](index.md)<br>
 * [Refinement Plan & Code Review](CodeReview.md)<br>
 * [Enhancement One - Software Engineering & Design](EnhancementOne.md)<br>
