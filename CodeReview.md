@@ -13,9 +13,9 @@ The three artifacts that were informally reviewed were:
 
 ## Code Review Timing
 
-00:00 to 32:18 Enhancement One artifact code review
-32:18 to 40:44 Enhancement Two artifact code review
-40:44 to 47:08 Enhancement Three artifact code review
+00:00 to 32:18 Enhancement One artifact code review<br>
+32:18 to 40:44 Enhancement Two artifact code review<br>
+40:44 to 47:08 Enhancement Three artifact code review<br>
 
 ## Link to the Code review
 
