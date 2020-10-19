@@ -22,17 +22,17 @@ While my learning was not restricted to these classes, I chose my three enhancem
 
 My job in the renewable energy industry relies heavily on my programming skills. I have worked as an Engineering Manager and Software Engineer at this company for 7 1/2 years, and for 5 years before that at another renewable energy firm. My career as a software engineer and manager has spanned 35 years so far. I am excited to finish my Bachelor's Degree in Computer Science because it gives me a solid foundation of knowledge to work from. While I have 3 decades of software knowledge learned on-the-job and much field engineering and experience working with clients, customers and partners, I always felt I lacked in the base theory behind writing software. Having this degree also opens the door to obtaining my Master's in Engineering Management or an MBA, entering a Master's program will be my next endeavor.
 
-**Link to Repositories**
+**Link to Repositories**<br>
 
-[Enhancement One Repository](https://github.com/w-coleman-moore/EnhancementOne)
-[Enhancement Two Repository](https://github.com/w-coleman-moore/EnhancementTwo)
-[Enhancement Three Repository](https://github.com/w-coleman-moore/EnhancementThree)
+[Enhancement One Repository](https://github.com/w-coleman-moore/EnhancementOne)<br>
+[Enhancement Two Repository](https://github.com/w-coleman-moore/EnhancementTwo)<br>
+[Enhancement Three Repository](https://github.com/w-coleman-moore/EnhancementThree)<br>
 
 ### Portfolio Links
 
 **Porfolio Links**<br>
 * [Professional Self-Assessment](index.md)<br>
 * [Refinement Plan & Code Review](CodeReview.md)<br>
-* [Enhancement One - Software Engineering & Design](EnhancementOne.md)
-* [Enhancement Two - Data Structures & Algorithms](EnhancementTwo.md)
-* [Enhancement Three - Databases](EnhancementThree.md)
+* [Enhancement One - Software Engineering & Design](EnhancementOne.md)<br>
+* [Enhancement Two - Data Structures & Algorithms](EnhancementTwo.md)<br>
+* [Enhancement Three - Databases](EnhancementThree.md)<br>
