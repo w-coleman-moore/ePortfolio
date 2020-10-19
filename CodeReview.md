@@ -1,34 +1,29 @@
 # CS-499 ePortfolio
 
-## Refinement Plan & Code Review
+## Introduction - Code Review
 
-**Category One: Software Engineering/Design**
+A code review was performed in the second week of my CS-499 Computer Science Capstone class. The code review was an informal review of the three original artifacts that I had chosen for inclusion in my ePortfolio.
 
-For the Software Engineering and Enhancement component, I chose my Final Project from CS-330 Comp Graphic and Visualization. I took that class in July 2020 and it is still fresh in my mind. This project demonstrates my ability to design and code in C++ and modern OpenGL to render an object in 3D. I chose a 4-leg table as the object to use when applying a texture to the object and lighting around the object. The Final Project showed my ability to generate accurate representations of a 3D object using API libraries and computer graphics, showed an application that responded to input devices (keyboard, mouse movement, mouse buttons) that allowed for successful navigation around the 3D object and through 3D space, and showed best practices in formatting, commenting and creating functional logic that produced a reliable fully functional program. I plan to enhance the project by adding additional lighting scenes around the table object.
+The three artifacts that were informally reviewed were:
+- Enhancement One, Software Engineering and Design, from my CS-330 Computer Graphics and Visualization class. A 3D object was rotated, lighted and manipulated using OpenGL and its API libraries from code written in C++. The enhancement to this artifact is to add additional lighting around the object and increase the complexity of the operations performed on the rotated object.
 
-**Category Two: Algorithms and Data Structures**
+- Enhancement Two, Data Structures and Algorithms, from my CS-405 Secure Programming class. A software project set of files were analyzed for vulnerabilities and security flaws using visual observation and static analysis tools. The enhancement to this artifact is to find a more complex project set of C++ files to analyze to make the overall process more challenging and more realistic to the projects found in the real world.
 
-To demonstrate my abilities working with Algorithms and Data Structures, I chose my Final Project from CS-405 Secure Coding which I took in September 2019. In this project, I demonstrated my mastery of the following outcomes – analyzing source code using manual and automated testing methods for the identification of potential vulnerabilities and code weaknesses, evaluating the vulnerabilities I identified using best practices and industry standards, and describing the implications on non-secure code, modifying the code by correcting weaknesses and reducing vulnerabilities, and recommending testing processes and necessary protocols for producing secure code. For enhancements, I plan to perform the same process I identified on the Final Project on a more complex selection of program code. There are many ways to violate coding practices when using C, some are more obvious problems, some are more subtle. The final CS-405 project included many issues that were more obvious that could be visually observed, I want to have code issues that are more difficult to see and use analysis tools that can find them.
+- Enhancement Three, Databases, from my CS-340 Client Server Development class. Documents in a MongoDB database were created, read, updated and deleted using MongoDB functions from various Python modules. The enhancement to this artifact is to keep the functionality the same, but to use Java as the programming language instead of Python. This could relate to a project constraint that only Java can be used on the updates to the previous product (i.e., change languages, write in Java as a constraint from the customer).
 
-**Category Three: Databases**
+## Code Review Timing
 
-To demonstrate my abilities working with Databases, I chose my Final Project from CS-340 Client Server Development. I took that class in January 2020, and I used MongoDB and code written in Python to manipulate data in databases. This Final Project used a higher-level programming language (Python) and used advanced programming techniques that were suitable for use within a full-stack development environment. For my enhancement of this project, I plan to switch to Java to create the same functional results and use the same create, read, update, delete operations on the stock market database. The complex operations performed in the CS-340 final will also be created in Java, with the five top stocks reported by an industry selection I chose.
+00:00 to 32:18 Enhancement One artifact code review
+32:18 to 40:44 Enhancement Two artifact code review
+40:44 to 47:08 Enhancement Three artifact code review
 
-**Code Review**
-<div align="center">
-  <iframe
-        width="560"
-        height="315"
-        src="https://www.youtube.com/embed/yVP35t4-eYc"
-        frameborder="0"
-        allow="autoplay; encrypted-media"
-        allowfullscreen="">
-  </iframe>
-</div>
+## Link to the Code review
+
+[Code Review](https://drive.google.com/file/d/1op30vMj1XhztF04Vl_W8Xm_gTMiHQoo1/view?usp=sharing)<br>
 
 **Porfolio Links**<br>
 * [Professional Self-Assessment](index.md)<br>
 * [Refinement Plan & Code Review](CodeReview.md)<br>
-* [Enhancement One - Software Engineering & Design](EnhancementOne.md)
-* [Enhancement Two - Data Structures & Algorithms](EnhancementTwo.md)
+* [Enhancement One - Software Engineering & Design](EnhancementOne.md)<br>
+* [Enhancement Two - Data Structures & Algorithms](EnhancementTwo.md)<br>
 * [Enhancement Three - Databases](EnhancementThree.md)
