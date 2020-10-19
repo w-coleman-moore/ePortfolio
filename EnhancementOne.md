@@ -51,7 +51,7 @@ TIOBE Index for September 2020. (2020, September). https://www.tiobe.com/tiobe-i
 
 **Portfolio Links**<br>
 * [Professional Self-Assessment](index.md)<br>
-* [Refinement Plan & Code Review](CodeReview.html)<br>
+* [Refinement Plan & Code Review](CodeReview.md)<br>
 * [Enhancement One - Software Engineering & Design](EnhancementOne.md)<br>
 * [Enhancement Two - Data Structures & Algorithms](EnhancementTwo.md)<br>
 * [Enhancement Three - Databases](EnhancementThree.md)
